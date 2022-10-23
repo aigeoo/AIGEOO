@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yossef</h1>
-<h3 align="center">fullstack developer who's interested in web development & cybersecurity | enjoy making websit | crazy about finding bugs 🕸</h3>
+<h3 align="center">fullstack developer who's interested in web development & cybersecurity | enjoy making websites | crazy about finding bugs 🕸</h3>
 
 
 - 🌱 I’m currently learning **Cybersecurity 👾**
