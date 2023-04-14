@@ -1,24 +1,94 @@
-<h1 align="center">Hi 👋, I'm Yossef</h1>
-<h3 align="center">fullstack developer who's interested in web development & cybersecurity | enjoy making websites | crazy about finding bugs 🕸</h3>
+<div align="start">
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&fontColor=CAD1D9&color=0:1d2671,100:c33764&height=180&section=header&text=Hey%20Everyone&fontSize=60" />
+</div>
+<h3 align="left"></h3>
+
+<p align='center'>
+    <a href="https://twitter.com/aigeo_" target="blank">
+      <img src="https://img.shields.io/twitter/follow/aigeo_?logo=twitter&style=for-the-badge" alt="aigeo_" />
+    </a>
+    <a href="https://www.linkedin.com/in/yossef-al-essaei-342a83235/" target="blank">
+      <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
 
 
-- 🌱 I’m currently learning **Cybersecurity 👾**
-- 📨 You can contact me at yosifsalimalessaei@gmail.com
-- 🖥 See my profile at (soon...)
-- 🧠 I'm learning red-teaming, advance algorithms, MEVN stack...
-- 🤝 I'm open to collaborating on on useful open-source projects that matches my tech stack.
-
-
-<h3 align="left">Tools and Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aigeoo&show_icons=true&locale=en&layout=compact" alt="aigeoo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aigeoo&" alt="aigeoo" /></p>
-
+```yaml
+name: Yossef Salim
+mail: yosifsalimalessaei@gmail.com
+education: Bachelor of Software Engineering
+fields_of_interests: [
+    "Web Development",
+    "Web Security",
+    "Penetration Testing",
+    "DevOps"
+]
+``` 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aigeo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aigeo_" height="30" width="40" /></a>
-<a href="https://discord.gg/AIGEO_#2582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AIGEO_#2582" height="30" width="40" /></a>
+  <a href="https://twitter.com/aigeo_" target="blank">
+    <img 
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
+   <a href="https://discord.com/users/AIGEO_#2582" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/yossef-al-essaei-342a83235" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/aigeo_" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/aigeo_" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://leetcode.com/aigeo_" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
 </p>
+
+## Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,githubactions,java,cpp,python,js,ts,mysql,mongodb,nodejs,expressjs,react,astro,tailwind,sass,bash,php,wordpress,docker,flutter,selenium,redis&perline=5" />
+  </a>
+</p>
+
+ ## 📈 Contribution Graph:
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aigeoo&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)
+
+<details>
+  <summary>:zap: More </summary>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=aigeoo&theme=dark&background=000000" height="140"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aigeoo&layout=compact&theme=vision-friendly-dark" height="140"/>
+</details>
