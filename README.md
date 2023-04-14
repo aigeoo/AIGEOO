@@ -15,7 +15,6 @@
 
 ```yaml
 name: Yossef Salim
-mail: yosifsalimalessaei@gmail.com
 education: Bachelor of Software Engineering
 fields_of_interests: [
     "Web Development",
