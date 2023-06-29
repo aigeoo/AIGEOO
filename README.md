@@ -84,7 +84,7 @@ fields_of_interests: [
 </p>
 
  ## 📈 Contribution Graph:
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aigeoo&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aigeoo&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)
 
 <details>
   <summary>:zap: More </summary>
