@@ -7,7 +7,7 @@
     <a href="https://twitter.com/aigeo_" target="blank">
       <img src="https://img.shields.io/twitter/follow/aigeo_?logo=twitter&style=for-the-badge" alt="aigeo_" />
     </a>
-    <a href="https://www.linkedin.com/in/yossef-al-essaei-342a83235/" target="blank">
+    <a href="https://www.linkedin.com/in/yousuf-alessaei/" target="blank">
       <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
@@ -42,7 +42,7 @@ fields_of_interests: [
          height="30"
          width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/yossef-al-essaei-342a83235" target="blank">
+  <a href="https://www.linkedin.com/in/yousuf-alessaei/" target="blank">
     <img
          align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
