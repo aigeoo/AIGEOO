@@ -14,7 +14,7 @@
 
 
 ```yaml
-name: Yossef Salim
+name: Yousuf
 education: Bachelor of Software Engineering
 fields_of_interests: [
     "Web Development",
